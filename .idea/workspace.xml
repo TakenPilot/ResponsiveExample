@@ -41,10 +41,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="style-guide.jade" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/style-guide.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="172" selection-start="2126" selection-end="2126" vertical-scroll-proportion="0.6713147" vertical-offset="353" max-vertical-offset="855">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="example-grid.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/example-grid.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="15" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1635">
+            <state line="10" column="15" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1875">
               <folding />
             </state>
           </provider>
@@ -53,7 +62,7 @@
       <file leaf-file-name="example-layout.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/example-layout.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="16" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="3" column="39" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
@@ -62,7 +71,7 @@
       <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/styles/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <folding />
             </state>
           </provider>
@@ -71,7 +80,7 @@
       <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="41" selection-start="1394" selection-end="1394" vertical-scroll-proportion="-4.5833335" vertical-offset="970" max-vertical-offset="1485">
+            <state line="72" column="41" selection-start="1394" selection-end="1394" vertical-scroll-proportion="0.0" vertical-offset="970" max-vertical-offset="1485">
               <folding />
             </state>
           </provider>
@@ -80,16 +89,16 @@
       <file leaf-file-name="design-requirements.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design-requirements.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="540">
+            <state line="25" column="26" selection-start="1315" selection-end="1315" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.jade" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/layout.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="58" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.513308" vertical-offset="165" max-vertical-offset="1080">
+            <state line="12" column="32" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1080">
               <folding />
             </state>
           </provider>
@@ -98,7 +107,7 @@
       <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="68" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+            <state line="4" column="68" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -118,22 +127,22 @@
         <option value="$PROJECT_DIR$/app/example-grid.html" />
         <option value="$PROJECT_DIR$/app/design-requirements.html" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/app/style-guide.jade" />
         <option value="$PROJECT_DIR$/app/index.jade" />
         <option value="$PROJECT_DIR$/app/styles/main.scss" />
-        <option value="$PROJECT_DIR$/app/example-layout.jade" />
         <option value="$PROJECT_DIR$/app/styles/_style-guide.scss" />
-        <option value="$PROJECT_DIR$/app/example-grid.jade" />
-        <option value="$PROJECT_DIR$/app/design-requirements.jade" />
         <option value="$PROJECT_DIR$/app/layout.jade" />
+        <option value="$PROJECT_DIR$/app/design-requirements.jade" />
+        <option value="$PROJECT_DIR$/app/example-grid.jade" />
+        <option value="$PROJECT_DIR$/app/example-layout.jade" />
+        <option value="$PROJECT_DIR$/app/style-guide.jade" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
-    <option name="y" value="164" />
+    <option name="x" value="31" />
+    <option name="y" value="22" />
     <option name="width" value="1345" />
-    <option name="height" value="682" />
+    <option name="height" value="656" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -240,14 +249,6 @@
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -256,6 +257,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -281,22 +290,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="88" y="164" width="1345" height="682" extended-state="0" />
+    <frame x="31" y="22" width="1345" height="656" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21105142" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21412125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -331,32 +340,87 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+        <state line="105" column="44" selection-start="2898" selection-end="2898" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2205">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/_style-guide.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="3" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/example-grid.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="15" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/example-layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="16" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="41" selection-start="1394" selection-end="1394" vertical-scroll-proportion="0.0" vertical-offset="970" max-vertical-offset="1485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design-requirements.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="32" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="68" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="80.916664" vertical-offset="1942" max-vertical-offset="2445">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="80.916664" vertical-offset="1942" max-vertical-offset="2445" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.tmp/style-guide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="43" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.12244898" vertical-offset="465" max-vertical-offset="1455">
-          <folding />
-        </state>
+        <state line="35" column="43" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.12244898" vertical-offset="465" max-vertical-offset="1455" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
@@ -382,21 +446,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="41" selection-start="1394" selection-end="1394" vertical-scroll-proportion="-4.5833335" vertical-offset="970" max-vertical-offset="1485">
+        <state line="72" column="41" selection-start="1394" selection-end="1394" vertical-scroll-proportion="0.0" vertical-offset="970" max-vertical-offset="1485">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/style-guide.jade">
+    <entry file="file://$PROJECT_DIR$/app/layout.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="585" selection-end="585" vertical-scroll-proportion="0.513308" vertical-offset="0" max-vertical-offset="750">
+        <state line="12" column="32" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design-requirements.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="26" selection-start="1315" selection-end="1315" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/example-grid.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="15" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1875">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/example-layout.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+        <state line="3" column="39" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
@@ -408,23 +486,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/example-grid.jade">
+    <entry file="file://$PROJECT_DIR$/app/style-guide.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="15" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1635">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design-requirements.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="58" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.513308" vertical-offset="165" max-vertical-offset="1080">
+        <state line="46" column="172" selection-start="2126" selection-end="2126" vertical-scroll-proportion="0.6713147" vertical-offset="353" max-vertical-offset="855">
           <folding />
         </state>
       </provider>

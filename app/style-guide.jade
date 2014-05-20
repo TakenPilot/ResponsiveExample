@@ -3,7 +3,8 @@ block content
   .row.marketing
     .col-sm-6
       h4 Make Rules
-      p Static layouts are almost always impossible, and the results disappointing.  Instead, create rules that define internal consistency.
+      p. Static layouts are almost always impossible, and the results disappointing.  Instead, create rules that define
+        internal consistency.
       pre
         | // for all headers and articles
         | h1, h2, h3, h4, h5, h6, article {
@@ -27,17 +28,23 @@ block content
         |   }
         | }
     .col-sm-6
+      h4 Design for all
+      p Fluid design means expanding content, and not designing pixel-by-pixel.
+      p.
+        Most responsive designs can be classifed as either a list or an article.  A article could be considered a list
+        with a single element.  Therefore, most responsive designs are based on lists of content.
+      p.
+        Designs that are not based on lists are especially difficult to make responsive, because there is no assumed
+        direction to expand or grow.  For example, a long tables are difficult to make responsive unless they are
+        converted into lists or have columns removed.  Components that are placed relative to other components (such as
+        markers on a map, popups, or toolbars) are also difficult because of the inflexibility of their layout.
+  .row.marketing
+    .col-sm-6
       h4 Develop Fluid Design, not Breakpoints
       p If the intention is to support as many screen sizes as possible, then create designs where the screen size is irrelevant.
       ul
         li: a(href='http://www.zeldman.com/2011/12/29/state-of-the-web-of-apps-devices-and-breakpoints/')  State of Apps, Devices and Breakpoints
         li: a(href='http://www.zeldman.com/2011/05/02/ethan-marcotte-the-responsive-designer%E2%80%99s-workflow/?relatedposts_exclude=9519')  Responsive Designer's Workflow
-  .row.marketing
-    .col-sm-6
-      h4 Design for all
-      p Fluid design means expanding content, and not designing pixel-by-pixel.
-      p Most responsive designs can be classifed as either a list or an article.  A article could be considered a list with a single element.  Therefore, most responsive designs are based on lists of content.
-      p Designs that are not based on lists are especially difficult to make responsive, because there is no assumed direction to expand or grow.
     .col-sm-6
       h4 The Typical Layout
       p Typical responsive designs have a header, one or two sidebars, the content, and a footer.
