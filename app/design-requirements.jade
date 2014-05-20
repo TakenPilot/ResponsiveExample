@@ -1,0 +1,31 @@
+extends layout
+block content
+  .row.marketing
+    .col-sm-6
+      h4 Internal Consistency
+      p If something looks the same, then it should behave the same.  No surprises.
+      p Editing tasks require CRUD (Create, Read, Update, Destroy).  Each requires a consistent design.
+      p Define a set of generic tasks (list, select items, view details, edit item), and make each page exactly the same as similar tasks.
+      p Define a set of generic classes to be used whenever certain tasks are required.
+      pre
+        | select from a list --> .select-list
+        | choosing options -->  .choose-options
+        | opening a dialog -->  .open-dialog
+    .col-sm-6
+      h4 External Consistency
+      p If a user has seen something before, their training time to use the app is non-existent.  This is one of the many reasons Apple and Google prefer all apps in their environment to look and feel the same.
+      p On the Internet, this means using the regular back button instead of providing your own, unless the new button provides extra functionality (i.e., Cancel).
+      p Buttons at the very top or the very bottom of the screen are difficult to press on mobile devices because of overlays and nearby hardware buttons).  Add padding or headings, or make the buttons larger.
+      p Use link or button tags, but avoid buttons built with images.
+      ul
+        li: a(href='http://blog.kissmetrics.com/common-website-navigation-mistakes/') Common Website Navigation Mistakes
+  .row.marketing
+    .col-sm-6
+      h4 Build leaves on a tree, not a nest.
+      p Have one root page whose only purpose is to inform their next action and then to navigate.
+      p Splash pages were never fashionable, even for the music industry.  It should be a sitemap or an immediate call-to-action.
+      p Clicks are currency.  More than five navigation clicks to complete any task is a failed design.
+    .col-sm-6
+      h4 Design for all
+      p Dialogs and notifications represent either a change of application state or that an exception has occured.  Try to avoid these, because they tend to create complexity in responsive designs.  Think of Facebook, Google and Microsoft Office products.
+      p Show, don't tell.  Almost all situations that use dialogs or that create exceptions can be avoided with better design.
